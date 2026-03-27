@@ -643,7 +643,7 @@
       // ==============================================================
       // PALITAN MO ITO NG SARILI MONG GOOGLE SCRIPT WEB APP URL KANINA
       // ==============================================================
-      const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbwUOW0noN59oKUaHVPnYaB803mAois5KjYzA7_iyY-RGkSWez--B1eyKVqJmMETCitp/exec";
+      const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzOQc5kqFYNAdwhHoaFmFNfBzCjmsycGer4YmrU9ykNGbJuk4G-QX2itdhN3Wf3Od5E/exec";
 
       fetch(WEB_APP_URL, {
         method: 'POST',
