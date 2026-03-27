@@ -1,0 +1,21 @@
+{
+  "name": "Factory 3 FG Scanner",
+  "short_name": "F3 Scanner",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050608",
+  "theme_color": "#00eaff",
+  "description": "Mobile Barcode Scanner for Inventory",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2415/2415286.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2415/2415286.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
